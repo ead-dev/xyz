@@ -97,10 +97,11 @@
 
 
                      <!-- Brand title -->
-                     <div class="brand-title">XYZ APP</div>
+                     <div class="brand-title">XYZ APPLI</div>
                   </div>
                </div>
                <!-- End - Brand -->
+
 
 
                <div class="header__content">
